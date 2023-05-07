@@ -1,3 +1,2 @@
 demo project for github demo.
 testing project
-demo prj
